@@ -1,2 +1,4 @@
 # leetcode_problem_solving
-solve leetcode problem
+我是菜鸡
+教我python
+教我算法

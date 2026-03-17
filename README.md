@@ -1,6 +1,6 @@
 # leetcode_problem_solving
 
-## 全网最谦卑（也可能最菜）的 LeetCode 刷题小本本
+## 全网最谦卑（也可能最菜）的 LeetCode 刷题小本本（其实是用ai写的）
 
 欢迎来到一个**算法水平还在“新手村”，但自尊心已经被题目反复教育**的 Python 学习仓库。
 

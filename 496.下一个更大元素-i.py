@@ -21,8 +21,17 @@ class Solution:
                     break   
             num.append(found)
         return num
-
-            
-        
+       
 # @lc code=end
 
+#哈希表
+class Solution:
+    def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        dict = {}
+        for i,v in enumerate(nums2):
+            dict[i] = v
+        
+
+
+
+       

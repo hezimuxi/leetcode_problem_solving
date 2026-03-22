@@ -30,5 +30,8 @@ class Solution:
         for i in range(26):
             if hashtable[i] == -1:
                 return chr(i + ord('a'))
+            
+
 # @lc code=end
 
+#其实我感觉会有更简单的思路？

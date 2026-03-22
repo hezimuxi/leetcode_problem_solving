@@ -22,7 +22,7 @@ class Solution:
 
 class Solution:                                                              
        def containsDuplicate(self, nums: List[int]) -> bool:                    
-             return len(set(nums)) != len(nums) 
+             return len(nums) != len(set(nums))  # set会自动去重，如果长度不一样说明有重复元素
 # s = set()          # 空集合                                                  
 # s = {1, 2, 3}      # 直接创建                                                
 # s = set([1, 2, 2, 3])  # 从列表转换 → 自动去重 → {1, 2, 3}               

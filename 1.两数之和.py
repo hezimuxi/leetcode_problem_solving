@@ -1,3 +1,5 @@
+# @lc app=leetcode.cn id=1 lang=python3
+# @lc code=start
 class Solution(object):
     def twoSum(self, nums, target):
         """
@@ -12,6 +14,7 @@ class Solution(object):
                 return [dict[prevV], i]
             dict[v] = i
         return []
-
+    
+# @lc code=end
            
                 
